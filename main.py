@@ -21,16 +21,22 @@ async def process_data(data: List[Dict], fields_kept: List):
     log.info(f"processing rent search result for {len(data)} results")
 
     output = []
-
+    average = 0
     for prop in data:
         formatted_prop = {}
         for field in fields_kept:
             formatted_prop[field] = prop[field]
         formatted_prop['time'] = datetime.now(IST).strftime('%Y:%m:%d %H:%M:%S %Z %z')
         formatted_prop['$/sqft'] = f"{prop['unformattedPrice']/prop['area']:.2f}"
+        average += float(formatted_prop['$/sqft'])
         output.append(formatted_prop)
 
+    average = average/len(data)
+
+    print("Average $/sqft:" + str(average))
+
     return output
+
 
 
 def save_data_csv(data: List[Dict], saving_path: str):
