@@ -1,19 +1,19 @@
-detailUrl,unformattedPrice,price,area,address,time
-https://www.zillow.com/homedetails/521-Groveview-Wynd-Wendell-NC-27591/215492350_zpid/,2495,"$2,495/mo",2412,"521 Groveview Wynd, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/916-Duet-Dr-Wendell-NC-27591/2054420734_zpid/,2214,"$2,214/mo",1618,"916 Duet Dr, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/255-Wood-Green-Dr-Wendell-NC-27591/68317575_zpid/,2095,"$2,095/mo",1666,"255 Wood Green Dr, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/912-Largo-Ct-Wendell-NC-27591/2054900701_zpid/,2264,"$2,264/mo",1618,"912 Largo Ct, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/340-Stone-Arbor-Way-Wendell-NC-27591/338498398_zpid/,1745,"$1,745/mo",1590,"340 Stone Arbor Way, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/818-Lusterleaf-Pl-Wendell-NC-27591/53459443_zpid/,1669,"$1,669/mo",1034,"818 Lusterleaf Pl, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/331-Stone-Arbor-Way-Wendell-NC-27591/338498631_zpid/,1745,"$1,745/mo",1590,"331 Stone Arbor Way, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/346-Stone-Arbor-Way-Wendell-NC-27591/338498800_zpid/,1835,"$1,835/mo",1590,"346 Stone Arbor Way, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/364-Stone-Arbor-Way-Wendell-NC-27591/338499590_zpid/,1745,"$1,745/mo",1590,"364 Stone Arbor Way, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/136-Candlewick-Dr-Wendell-NC-27591/6447744_zpid/,1650,"$1,650/mo",1237,"136 Candlewick Dr, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/632-Wendell-Falls-Pkwy-Wendell-NC-27591/336868779_zpid/,1725,"$1,725/mo",1590,"632 Wendell Falls Pkwy, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/538-Landing-View-Dr-Wendell-NC-27591/338499429_zpid/,1745,"$1,745/mo",1590,"538 Landing View Dr, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/73-Old-Barn-Way-Wendell-NC-27591/83965199_zpid/,2595,"$2,595/mo",2439,"73 Old Barn Way, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/1720-Mallard-Trace-Dr-Wendell-NC-27591/248750101_zpid/,2100,"$2,100/mo",1671,"1720 Mallard Trace Dr, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/1433-Big-Falls-Dr-Wendell-NC-27591/248756221_zpid/,1800,"$1,800/mo",1640,"1433 Big Falls Dr, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/309-N-Gaylee-Lake-Dr-Wendell-NC-27591/6440536_zpid/,2000,"$2,000/mo",1475,"309 N Gaylee Lake Dr, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/240-Douglas-Falls-Dr-Wendell-NC-27591/331654336_zpid/,1975,"$1,975/mo",1576,"240 Douglas Falls Dr, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
-https://www.zillow.com/homedetails/6239-Taylor-Rd-Wendell-NC-27591/336867547_zpid/,2000,"$2,000/mo",1608,"6239 Taylor Rd, Wendell, NC 27591",2023:11:20 08:19:56 EST -0500
+detailUrl,unformattedPrice,price,area,address,time,$/sqft
+https://www.zillow.com/homedetails/521-Groveview-Wynd-Wendell-NC-27591/215492350_zpid/,2495,"$2,495/mo",2412,"521 Groveview Wynd, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.03
+https://www.zillow.com/homedetails/916-Duet-Dr-Wendell-NC-27591/2054420734_zpid/,2214,"$2,214/mo",1618,"916 Duet Dr, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.37
+https://www.zillow.com/homedetails/255-Wood-Green-Dr-Wendell-NC-27591/68317575_zpid/,2095,"$2,095/mo",1666,"255 Wood Green Dr, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.26
+https://www.zillow.com/homedetails/912-Largo-Ct-Wendell-NC-27591/2054900701_zpid/,2264,"$2,264/mo",1618,"912 Largo Ct, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.40
+https://www.zillow.com/homedetails/340-Stone-Arbor-Way-Wendell-NC-27591/338498398_zpid/,1745,"$1,745/mo",1590,"340 Stone Arbor Way, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.10
+https://www.zillow.com/homedetails/818-Lusterleaf-Pl-Wendell-NC-27591/53459443_zpid/,1669,"$1,669/mo",1034,"818 Lusterleaf Pl, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.61
+https://www.zillow.com/homedetails/331-Stone-Arbor-Way-Wendell-NC-27591/338498631_zpid/,1745,"$1,745/mo",1590,"331 Stone Arbor Way, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.10
+https://www.zillow.com/homedetails/346-Stone-Arbor-Way-Wendell-NC-27591/338498800_zpid/,1835,"$1,835/mo",1590,"346 Stone Arbor Way, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.15
+https://www.zillow.com/homedetails/364-Stone-Arbor-Way-Wendell-NC-27591/338499590_zpid/,1745,"$1,745/mo",1590,"364 Stone Arbor Way, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.10
+https://www.zillow.com/homedetails/136-Candlewick-Dr-Wendell-NC-27591/6447744_zpid/,1650,"$1,650/mo",1237,"136 Candlewick Dr, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.33
+https://www.zillow.com/homedetails/632-Wendell-Falls-Pkwy-Wendell-NC-27591/336868779_zpid/,1725,"$1,725/mo",1590,"632 Wendell Falls Pkwy, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.08
+https://www.zillow.com/homedetails/538-Landing-View-Dr-Wendell-NC-27591/338499429_zpid/,1745,"$1,745/mo",1590,"538 Landing View Dr, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.10
+https://www.zillow.com/homedetails/73-Old-Barn-Way-Wendell-NC-27591/83965199_zpid/,2595,"$2,595/mo",2439,"73 Old Barn Way, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.06
+https://www.zillow.com/homedetails/1720-Mallard-Trace-Dr-Wendell-NC-27591/248750101_zpid/,2100,"$2,100/mo",1671,"1720 Mallard Trace Dr, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.26
+https://www.zillow.com/homedetails/1433-Big-Falls-Dr-Wendell-NC-27591/248756221_zpid/,1800,"$1,800/mo",1640,"1433 Big Falls Dr, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.10
+https://www.zillow.com/homedetails/309-N-Gaylee-Lake-Dr-Wendell-NC-27591/6440536_zpid/,2000,"$2,000/mo",1475,"309 N Gaylee Lake Dr, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.36
+https://www.zillow.com/homedetails/240-Douglas-Falls-Dr-Wendell-NC-27591/331654336_zpid/,1975,"$1,975/mo",1576,"240 Douglas Falls Dr, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.25
+https://www.zillow.com/homedetails/6239-Taylor-Rd-Wendell-NC-27591/336867547_zpid/,2000,"$2,000/mo",1608,"6239 Taylor Rd, Wendell, NC 27591",2023:11:20 08:51:35 EST -0500,1.24
